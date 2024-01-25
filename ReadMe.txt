@@ -1,4 +1,4 @@
-Hello! My name is Andriy, I am a beginner  | 
+Hello! My name is Aldrim, I am a beginner  | 
 in the field of information technology,    |
 if you notice errors in my code,           |
 or if you want to give me some advice,     |
